@@ -11,7 +11,7 @@
 </div>
 
 ## Hey!!
-Tenho 27 anos, moro em Jacareí/SP e sou apaixonado por tecnologia! Atualmente sou aluno de graduação na Universidade Paulista (UNIP) em Tecnologia em Análise e Desenvolvimento de Sistemas. Meus interesses incluem desenvolvimento de interfaces e backend de aplicações desktop/web.
+Tenho 28 anos, moro em Jacareí/SP e sou apaixonado por tecnologia! Atualmente sou aluno de graduação na Universidade Paulista (UNIP) em Tecnologia em Análise e Desenvolvimento de Sistemas. Meus interesses incluem desenvolvimento de interfaces e backend de aplicações desktop/web.
 
 ### 🖥️ Tecnologias e Ferramentas 
 <p align="left">
